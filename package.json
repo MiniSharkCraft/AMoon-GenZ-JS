@@ -1,0 +1,23 @@
+{
+  "name": "amoon-js",
+  "version": "1.0.2",
+  "description": "Ngôn ngữ JS dành cho GenZ/Vietnamese. Better start learning Vietnamese to use the package! 🌙☝️",
+  "main": "src/translator.js",
+  "bin": {
+    "amoon": "./bin/bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniSharkCraft/AMoon-GenZ-JS"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "express": "^4.18.2"
+  },
+  "keywords": ["genz", "compiler", "toxic", "amoon", "javascript", "vietnamese"],
+  "author": "CEO Công",
+  "license": "MIT"
+}
