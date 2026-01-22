@@ -5,10 +5,10 @@
 <p><b>Compiler hệ tâm linh dành cho CEO GenZ - Lập trình bằng ngôn ngữ GenZ Việt Nam thuần khiết</b></p>
 
 [![NPM Version](https://img.shields.io/npm/v/amoon-js?color=red&style=for-the-badge)](https://www.npmjs.com/package/amoon-js)
-[![Release version](https://img.shields.io/github/v/release/ngthanhcong/amoon-js?color=brightgreen&label=Github&style=for-the-badge)](https://github.com/ngthanhcong/amoon-js)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Genz Language](https://img.shields.io/badge/Language-GenZ%2FVN-orange?style=for-the-badge)](https://github.com/ngthanhcong/amoon-js)
-[![Commits](https://img.shields.io/github/commit-activity/m/ngthanhcong/amoon-js?label=Code%20Dạo&style=for-the-badge)](#)
+[![Release version](https://img.shields.io/github/v/release/MiniSharkCraft/AMoon-GenZ-JS?color=brightgreen&label=Github&style=for-the-badge)](https://github.com/MiniSharkCraft/AMoon-GenZ-JS)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://github.com/MiniSharkCraft/AMoon-GenZ-JS/blob/main/LICENSE)
+[![Genz Language](https://img.shields.io/badge/Language-GenZ%2FVN-orange?style=for-the-badge)](https://github.com/MiniSharkCraft/AMoon-GenZ-JS)
+[![Commits](https://img.shields.io/github/commit-activity/m/MiniSharkCraft/AMoon-GenZ-JS?label=Code%20Dạo&style=for-the-badge)](https://github.com/MiniSharkCraft/AMoon-GenZ-JS/graphs/commit-activity)
 
 </div>
 
@@ -28,7 +28,7 @@ Cài đặt global thông qua NPM để trở thành một phần của đế ch
 npm install -g amoon-js
 
 Hoặc nếu muốn tự tay "đúc khuôn" từ source:
-git clone [https://github.com/ngthanhcong/amoon-js.git](https://github.com/ngthanhcong/amoon-js.git)
+git clone [https://github.com/MiniSharkCraft/AMoon-GenZ-JS.git](https://github.com/MiniSharkCraft/AMoon-GenZ-JS.git)
 cd amoon-js
 npm link
 
