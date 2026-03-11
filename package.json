@@ -1,16 +1,22 @@
 {
   "name": "amoon",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "🌙 AMoon - Compiler ngôn ngữ lập trình GenZ Việt Nam",
   "main": "src/translator.js",
   "bin": {
     "amoon": "./bin/amoon.js"
   },
   "scripts": {
-    "test":  "node -e \"const t = require('./src/translator'); console.log('JS dict:', t.jsDict.length, 'HTML dict:', t.htmlDict.length, 'CSS dict:', t.cssDict.length);\"",
+    "test": "node -e \"const t = require('./src/translator'); console.log('JS dict:', t.jsDict.length, 'HTML dict:', t.htmlDict.length, 'CSS dict:', t.cssDict.length);\"",
     "stats": "node bin/amoon.js stats",
-    "list":  "node bin/amoon.js list"
+    "list": "node bin/amoon.js list"
   },
-  "keywords": ["genz", "vietnamese", "compiler", "transpiler", "amoon"],
+  "keywords": [
+    "genz",
+    "vietnamese",
+    "compiler",
+    "transpiler",
+    "amoon"
+  ],
   "license": "MIT"
 }
