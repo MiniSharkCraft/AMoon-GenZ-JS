@@ -1,5 +1,5 @@
 {
-  "name": "amoon",
+  "name": "amoon-js",
   "version": "2.0.1",
   "description": "🌙 AMoon - Compiler ngôn ngữ lập trình GenZ Việt Nam",
   "main": "src/translator.js",
